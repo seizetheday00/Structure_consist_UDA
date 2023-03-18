@@ -21,7 +21,7 @@ Unsupervised domain adaptation classification accuracy (%) on [Office-31](https:
 | ViT                         | 90.8     | 90.4        | 76.8        | 98.2     | 76.4        | **100** | 88.8        |
 | SHOT-B                      | 95.3     | 94.3        | 79.4        | **99.0** | 80.2        | **100** | 91.4        |
 | [CDTrans](https://github.com/CDTrans/CDTrans) | <u>97.0  | <u>96.7</u> | <u>81.1</u> | **99.0** | <u>81.9</u> | **100** | <u>92.6</u> |
-| Ours                        | **98.8** | **97.2**    | **83.6      | **99.0** | **82.3      | **100** | **93.5**    |
+| Ours                        | **98.8** | **97.2**    | **83.6**      | **99.0** | **82.3**      | **100** | **93.5**    |
 
 Unsupervised domain adaptation classification accuracy (%) on [VisDA](https://ai.bu.edu/visda-2017/) dataset.
 
