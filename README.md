@@ -1,8 +1,7 @@
 # <div align="center">Structure Consistent Unsupervised Domain Adaptation for Driver Behavior Recognition</div>
 
 ## Samples of [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/) dataset and [VisDA](https://ai.bu.edu/visda-2017/) dataset
-<img src="[assets/office31visda1.png](https://github.com/seizetheday00/Structure_consist_UDA/blob/main/assets/office31visda1.png
-)">
+<img src="assets/office31visda1.png">
 
 ## Results on [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/) dataset and [VisDA](https://ai.bu.edu/visda-2017/) dataset
 Data distributions in the learned feature space by the proposed method for the six tasks on [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/) dataset
